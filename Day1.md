@@ -39,3 +39,15 @@
 - here we used reg to see the components of a0 after and before li command:
 
 ![image](https://github.com/user-attachments/assets/3adcd66b-4f06-43aa-bcae-0aefc17d3ca3)
+
+- we've created new program:
+
+![image](https://github.com/user-attachments/assets/92b08644-6ba5-4564-ba72-97420aa476e2)
+
+![image](https://github.com/user-attachments/assets/3c04e435-d100-4f1a-a96e-21e41183e383)
+
+- we made changes so it represents signed and unsigned:
+
+![image](https://github.com/user-attachments/assets/a051bfb8-88df-42ed-8379-98ba8f44203b)
+
+![image](https://github.com/user-attachments/assets/892c181d-78b6-4c67-a6d7-3722b7a24002)
