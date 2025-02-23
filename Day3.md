@@ -30,3 +30,10 @@
 
 ![image](https://github.com/user-attachments/assets/f7132820-a029-45fc-b981-f91bdee25a87)
 
+- updating the cal by making it sequetianl :
+
+![image](https://github.com/user-attachments/assets/c83da31b-a076-4c84-904a-5b710f84ad0c)
+
+- update using pipline:
+
+![image](https://github.com/user-attachments/assets/f3baddef-66f4-483d-90a1-b0330ad0b4a2)
